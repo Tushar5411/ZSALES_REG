@@ -1,0 +1,4 @@
+@EndUserText.label: 'Sales Register'
+define service ZEXPOSE_SALES_REGISTER {
+  expose ZCE_SALES_REGISTER;
+}
